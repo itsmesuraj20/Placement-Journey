@@ -2,6 +2,7 @@
 using namespace std;
 #define forna for(int i=0;i<n;i++)
 
+//Time Complexity of this = O(n);
 
 
 int search(int*,int , int);
