@@ -1,0 +1,15 @@
+There are three types of function declaration in which 
+1) Function declaration - Normal Function Declaration like any other Functionname functionvarialbe (parameter)
+2) Function Expression - this function is stored in a variable const val = function () {}
+3) Arrow Function - indicates by =>
+4) Anynonmus Function - Which has no function name at all
+
+
+Operation on Array In Javascript -
+1) Array.pusp("Name")  - it will insert a element in the last position of the Array
+
+2) Array.unshift("Name") - it will insert a element in the first position of the Array
+
+3) Array.pop() - it will delete a element in the last position of the Array
+
+4) Array.shift() - it will delete a element from the first position of the array
