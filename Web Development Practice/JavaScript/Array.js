@@ -19,3 +19,6 @@ console.log(frnd.indexOf('Sad'))
 
 console.log(frnd.includes("Suraj"))
 console.log(frnd.includes("GunGun"))
+
+
+//013 Dot vs Bracket Notation 
