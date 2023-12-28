@@ -3,7 +3,7 @@ using namespace std;
 
 struct Node{
     int data;
-    Node *next;
+    Node * next;
     Node(int x)
     {
         data=x;
@@ -25,6 +25,7 @@ int main()
     Node *head = new Node(100);
     head -> next =new Node(200);
     head -> next -> next =new Node(300);
+    head -> next -> next ->next =new Node(00);
 
     //Traversal From Here 
     Node* current = head;
