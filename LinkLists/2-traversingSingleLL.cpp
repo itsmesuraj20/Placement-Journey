@@ -26,7 +26,7 @@ void printRecursively(Node* head)// Recursive Way
 {
     if(head==NULL)
     {
-        return ;
+        return ;head
     }
 
     cout<<head -> data << " ";
@@ -40,8 +40,10 @@ int main()
     head -> next -> next = new Node(30);
     head -> next -> next -> next = new Node(400 );
 
+    cout<<"Printing Iteratetively"<<endl;
     printList(head);
-    cout<<"\n Printing Recursively"<<endl;
+    cout<<"endl";
+    cout<<"Printing Recursively"<<endl;
     printRecursively(head);
 
     return 0;

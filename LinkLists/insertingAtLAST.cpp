@@ -54,6 +54,7 @@ void freeList(Node *head)
 int main()
 {
     Node *head = NULL;
+    head = insertEnd(head,05);
     head = insertEnd(head,10);
     head = insertEnd(head,20);
     head = insertEnd(head,30);
