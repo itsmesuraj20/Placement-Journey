@@ -1,0 +1,1 @@
+{"name":"Local: stockspan","url":"d:\\1. Github RESPO Dont Touch This\\Stacks\\stockspan.cpp","tests":[{"id":1704525104410,"input":"10\n13 15 12 14 16 8 6 4 10 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1. Github RESPO Dont Touch This\\Stacks\\stockspan.cpp","group":"local","local":true}
