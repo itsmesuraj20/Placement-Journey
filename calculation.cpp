@@ -10,4 +10,5 @@ int main()
     else a = ((n + 1) / 2) * (-1);
     cout << a << endl;
     return 0;
+    
 }
