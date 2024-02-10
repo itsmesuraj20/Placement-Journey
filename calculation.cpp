@@ -12,3 +12,4 @@ int main()
     return 0;
     
 }
+//Consistency is the key to success
